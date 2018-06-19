@@ -47,5 +47,5 @@ def offval(category,step):
     #print('score: {:.2f}%'.format((all_point / all_point_valid) * 100))
     return (all_point / all_point_valid) * 100
 
-
+# the second
 #print (offval('blouse',35000))
