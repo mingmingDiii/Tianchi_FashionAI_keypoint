@@ -1,4 +1,4 @@
-# Fashion AI keypoint challenge 34nd solution  (34/2322)
+# Fashion AI keypoint challenge 34th solution  (34/2322)
 
 
 # 1. 框架
